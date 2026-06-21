@@ -1,6 +1,6 @@
 cask "mimer" do
-  version "0.2.0"
-  sha256 "dc17d56c6a34e97d3b68af938a53ac7cfbe6e58470681dfd78ded358e9ad08ad"
+  version "0.2.1"
+  sha256 "fc187ebcdf979c66bae1e6c80a87ec8854b06ead77222521f02f72a5e770d194"
 
   url "https://github.com/hasanjafri/Mimer/releases/download/v#{version}/Mimer-#{version}.dmg",
       verified: "github.com/hasanjafri/Mimer/"
