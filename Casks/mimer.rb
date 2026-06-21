@@ -8,7 +8,7 @@ cask "mimer" do
   desc "Fast, private, developer-first clipboard manager"
   homepage "https://github.com/hasanjafri/Mimer"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Mimer.app"
 
